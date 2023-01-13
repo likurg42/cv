@@ -1,6 +1,6 @@
 # Николай Тарасенков
 
-# Juniour Frontend Разработчик
+# Junior Frontend Разработчик
 
 ## Контакты
 

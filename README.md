@@ -35,7 +35,7 @@
 
 -   [Онлайн магазин](https://likurg42.github.io/online-store) [![Online Store Github](./assets/github-logo.png)](https://github.com/likurg42/online-store) (React, Typescript, react-router-dom, Hooks, Context/Reducer, Responsive design)
 -   [RSS Агрегатор](https://rss-aggregator-black.vercel.app/) [![RSS Aggregator Github](./assets/github-logo.png)](https://github.com/likurg42/frontend-project-11) (Vanilla JS, MVC, Asynchronous)
--   [Викторина саундртреков видеоигр](https://likurg42.github.io/vgm-quiz/)
+-   [Викторина саундтреков видеоигр](https://likurg42.github.io/vgm-quiz/)
     [![VGM Quiz Github](./assets/github-logo.png)](https://github.com/likurg42/vgm-quiz) (vanilla js, responsive design)
 -   [Вычислитель отличий](https://github.com/likurg42/frontend-project-lvl2) (node.js)
 

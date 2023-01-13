@@ -20,6 +20,7 @@
 -   Typescript (Generics, Object Types, Classes, Functions)
 -   React (v18, hooks, react-router, Redux)
 -   Node.js (basics, nest.js)
+-   Testing (Jest)
 -   Animations (Vanilla JS, CSS and SVG Animations, GSAP, Framer Motion)
 -   Accessibility
 -   Git

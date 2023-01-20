@@ -29,9 +29,7 @@
 -   Deploy (github-actions, docker)
 -   Design Tools: Figma, Photoshop
 
-## Опыт
-
-### Проекты
+## Проекты
 
 -   [Онлайн магазин](https://likurg42.github.io/online-store) [![Online Store Github](./assets/github-logo.png)](https://github.com/likurg42/online-store) (React, Typescript, react-router-dom, Hooks, Context/Reducer, Responsive design)
 -   [RSS Агрегатор](https://rss-aggregator-black.vercel.app/) [![RSS Aggregator Github](./assets/github-logo.png)](https://github.com/likurg42/frontend-project-11) (Vanilla JS, MVC, Asynchronous)

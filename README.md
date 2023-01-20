@@ -40,7 +40,6 @@
 ## Образование
 
 -   Hexlet: направление Frontend (в процессе)
--   RS School: Frontend Stage 1 & 2 (в процессе)
 -   Introduction to Computer Science with Python MIT - самостоятельное прохождение
 -   Frontend Masters - Functional Javascript, Node.js, React, Typescript направления
 -   Kevin Powell Courses - CSS Demystified, Responsive Bootcamp
